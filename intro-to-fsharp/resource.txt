@@ -1,0 +1,7 @@
+http://www.tryfsharp.org
+http://fsharpforfunandprofit.com
+http://fssnip.net/
+
+Don Syme - @dsyme
+Phillip Trelford - @ptrelford
+Tomas Petricek - @tomaspetricek

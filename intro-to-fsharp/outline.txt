@@ -1,0 +1,20 @@
+Hello!
+What is functional programming?
+Immutability
+Abstracting Behaviour
+Let's F#!
+    - assignments
+    - functions
+    - structs
+    - discriminated unions
+    - classes
+    - pattern matching
+        - say no to null!
+    - sequences
+    - unit testing
+        - C# interop
+    - behaviour abstraction example
+    - parallelization
+    - async
+
+MVC Example
