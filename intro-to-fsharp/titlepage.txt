@@ -1,0 +1,5 @@
+Intro to Functional Programming
+With F#
+
+Curtis Badke
+@cbadkidrun
